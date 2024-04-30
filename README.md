@@ -1,5 +1,7 @@
 # CountryApp
 
+In this section, we'll cover the fundamentals of a Single Page Application (SPA)
+
 ## Main Topics Covered:
 
 1. **Rutas (Routes):** Define navigation paths for your application.
@@ -20,9 +22,23 @@
   
 9. **Application Menu:** Design and implement a navigation menu for your application.
   
-10. **And More:** Explore additional advanced topics.
+10. **ngClass:** and different ways to manipulate classes
+
+11. **Conditional CSS**
+
+12. **Optimizations to HTTP requests**
+
+13. **Manual debounce using RxJs**
+
+14. **LocalStorage**
+
+15. **Store ideas**
+
+16. **Component reusability**
+
+17. **Various RxJS operators applied**
+
   
-In this section, we'll cover the fundamentals of a Single Page Application (SPA)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
 
